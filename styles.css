@@ -73,9 +73,9 @@ body {
 .menu-social a {
   color: white;
   font-weight: bold;
-  border-radius: 50%;
+  border-radius: ;
   border: 1px solid #fff;
-  padding: ;
+  padding: 10px;
 }
 
 /* Overlay */
