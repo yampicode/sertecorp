@@ -11,6 +11,6 @@ document.getElementById("contactForm").addEventListener("submit", function(e) {
   const texto = `Hola, soy ${nombre}.%0A📧 Correo: ${correo}%0A📱 WhatsApp: ${whatsapp}%0A📍 Dirección: ${direccion}%0A🛠️ Servicio: ${servicio}%0A✉️ Mensaje: ${mensaje}`;
 
   // Reemplaza con el número del taller en formato internacional
-  const telefono = "584120348988"; 
+  const telefono = "584244067912"; 
   window.open(`https://wa.me/${telefono}?text=${texto}`, "_blank");
 });
